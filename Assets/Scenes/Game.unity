@@ -321,7 +321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrow: {fileID: 408330475}
-  moveSpeed: 10
+  moveSpeed: 11
   rotationSpeed: 170
 --- !u!1 &408330474
 GameObject:
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minAngle: 110
   maxAngle: 260
---- !u!1001 &654435656
+--- !u!1001 &737659136
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1183,4 +1183,4 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 44019009}
   - {fileID: 385496416}
-  - {fileID: 654435656}
+  - {fileID: 737659136}
